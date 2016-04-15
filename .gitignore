@@ -1,0 +1,13 @@
+*.pyc
+*.DS_Store
+*.log
+*.swp
+.project
+.pydevproject
+.settings
+.idea
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
